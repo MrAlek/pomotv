@@ -2029,3 +2029,180 @@ Functional Swift Conference 2015:
     speakers: [Colin Barrett]
     title: Structure and Interpretation of Swift Programs
     youtube: V-YvI83QdMs
+NSLondon:
+  - language: English
+    speakers: [Matt Galloway]
+    title: Objective-C Digging the Foundations
+    vimeo: 74708693
+  - language: English
+    speakers: [Rob Elkin]
+    title: altWWDC
+    vimeo: 78552963
+  - language: English
+    speakers: [Daniel Haight]
+    title: A first step into other people's apps (May 2014)
+    vimeo: 98272941
+  - language: English
+    speakers: [Nigel Barber]
+    title: How to draw lines _very_ fast (May 2014)
+    vimeo: 98274186
+  - language: English
+    speakers: [Tim Chilvers]
+    title: High fashion and intriguing bugs in code and work (April 2014)
+    vimeo: 98274951
+  - language: English
+    speakers: [Marin Usalj]
+    title: Everything you didn't about Alcatraz (April 2014)
+    vimeo: 98274952
+  - language: English
+    speakers: [Luka Bratoš]
+    title: PonyDebugger (February 2014)
+    vimeo: 98275127
+  - language: English
+    speakers: [Saul Mora]
+    title: Everyday Core Data (February 2014)
+    vimeo: 98275128
+  - language: English
+    speakers: [Abizer Nasir]
+    title: Git Submodules (September 2013)
+    vimeo: 99993729
+  - language: English
+    speakers: [Boris Bügling]
+    title: Custom Playgrounds (June 2014)
+    vimeo: 100785878
+  - language: English
+    speakers: [Johannes Weiß]
+    title: Introduction to Functional Programming (June 2014)
+    vimeo: 100786088
+  - language: English
+    speakers: [Rui Peres]
+    title: iOS Architecture (November 2013)
+    vimeo: 101841366
+  - language: English
+    speakers: [Kurtis Seedbalt]
+    title: Promises (October 2013)
+    vimeo: 101841386
+  - language: English
+    speakers: [Mike Abdullah]
+    title: What's new in iOS 7 for the Hipster's Hipster (October 2013)
+    vimeo: 101841686
+  - language: English
+    speakers: [Kyle Fuller]
+    title: Memory Management (October 2013)
+    vimeo: 101842496
+  - language: English
+    speakers: [Matt Galloway]
+    title: ARM for iOS developers (November 2013)
+    vimeo: 101848722
+  - language: English
+    speakers: [Nigel Barber]
+    title: Fast NEON Math (October 2013)
+    vimeo: 101849734
+  - language: English
+    speakers: [Kyle Fuller]
+    title: A swift approach (July 2014)
+    vimeo: 103413459
+  - language: English
+    speakers: [Rob Stearn]
+    title: MultiPeer Networking (July 2014)
+    vimeo: 103581232
+  - language: English
+    speakers: [Scott Goodson]
+    title: Behind AsyncDisplayKit
+    vimeo: 103589245
+  - language: English
+    speakers: [Sally Shepard]
+    title: Making an app like 'Clear' accessible
+    vimeo: 105440180
+  - language: English
+    speakers: [Abizer Nasir]
+    title: Thinking in Swift
+    vimeo: 105440181
+  - language: English
+    speakers: [Mike Abdullah]
+    title: What's New in iOS8 for Hipsters
+    vimeo: 115305205
+  - language: English
+    speakers: [Alexsander Akers]
+    title: The Other WatchKit
+    vimeo: 115305206
+  - language: English
+    speakers: [Jon Hocking]
+    title: 208 Weeks Later
+    vimeo: 115883260
+  - language: English
+    speakers: [Meng To]
+    title: Fast Interactive Prototyping
+    vimeo: 115883261
+  - language: English
+    speakers: [Raimon Lapuente]
+    title: Little Wins With UIAppearance
+    vimeo: 115883292
+  - language: English
+    speakers: [Mehdi Mulani]
+    title: Reverse Engineering on iOS/Mac
+    vimeo: 118019962
+  - language: English
+    speakers: [Joseph Lord]
+    title: Beyond "if let"
+    vimeo: 118019963
+  - language: English
+    speakers: [Thomas Caterall]
+    title: The Dependencies You Didn't Know You Had
+    vimeo: 118021039
+  - language: English
+    speakers: [JP Simard]
+    title: Lessons learned wrapping an Objective-C framework in Swift
+    vimeo: 118832151
+  - language: English
+    speakers: [Francesco Petrungaro]
+    title: 'iOS App Security: Common Mistakes and Best Practices'
+    vimeo: 118833806
+  - language: English
+    speakers: [Johannes Weiß]
+    title: Type Driven Development in Swift
+    vimeo: 121126581
+  - language: English
+    speakers: [Uri Baghin]
+    title: Reactive Cocoa and RX Principles 101
+    vimeo: 121126582
+  - language: English
+    speakers: [Joel Parsons]
+    title: The Modern Password and You
+    vimeo: 121127087
+  - language: English
+    speakers: [Tom Dixon]
+    title: A Delve into Custom Keyboards
+    vimeo: 129662678
+  - language: English
+    speakers: [Neil Kimmett]
+    title: Practical Watchkit
+    vimeo: 133127238
+  - language: English
+    speakers: [Honza Dvorsky]
+    title: Continuous Integration on the Edge
+    vimeo: 133130698
+  - language: English
+    speakers: [John Sundell]
+    title: Dynamic, native User Interfaces on iOS
+    vimeo: 140421667
+  - language: English
+    speakers: [Jani Eväkallio]
+    title: "React Native: Introduction and a Case Study"
+    vimeo: 140421668
+  - language: English
+    speakers: [Marco Sero]
+    title: Legacy Apps
+    vimeo: 140421669
+  - language: English
+    speakers: [Tomasz Piekarczyk]
+    title: Core Data - Going Big and Getting There
+    vimeo: 142254755
+  - language: English
+    speakers: [Mike McDonald]
+    title: Simplifying IoT with Firebase
+    vimeo: 143903802
+  - language: English
+    speakers: [Paul Ardeleanu]
+    title: Developers’ Emergency Guide to Public Speaking
+    vimeo: 143903803
